@@ -2,9 +2,12 @@
     margin: 0;
     padding: 0;
 }
-
+header{
+    padding-top: 15px;
+}
 .main-container {
     display: flex;
+    padding-left: 12px;
     background-color: #f6f8fc;
     font-family: "Google Sans", Roboto, RobotoDraft, Helvetica, Arial, sans-serif;
 }
