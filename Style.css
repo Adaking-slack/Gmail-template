@@ -167,8 +167,9 @@ a:hover {
 .image {
     position: absolute;
     width: 35px;
-    top: 4.5%;
-    right: 22%;
+    height: 35px; 
+    top: 35px;
+    right: 750px; 
 
 }
 
@@ -228,7 +229,7 @@ th:hover {
     padding: 15px 19px;
     border-bottom: 1px solid #ddd;
     vertical-align: top;
-    width: 295%;
+    width: 285%;
 
 
 }
@@ -258,7 +259,7 @@ th:hover {
     margin: 0;
     font-size: 20px;
     font-weight: normal;
-    width: 150px;
+    width: 158px;
 }
 
 .message-table .unread {
